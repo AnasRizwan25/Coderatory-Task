@@ -1,4 +1,4 @@
-# MERN Internship Task - Coderatory Software House
+# Tasks
 
 This project is a Node.js CLI  utility that provides multiple interactive functionalities, ranging from XML-to-JSON conversion to string manipulation, paragraph analysis, object attribute comparison, and JavaScript code parsing into an Abstract Syntax Tree.
 
