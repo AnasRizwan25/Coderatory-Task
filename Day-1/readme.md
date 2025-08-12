@@ -1,6 +1,6 @@
 # MERN Internship Task - Coderatory Software House
 
-This project is a **Node.js CLI (Command Line Interface) utility** that provides multiple interactive functionalities, ranging from **XML-to-JSON conversion** to **string manipulation**, **paragraph analysis**, **object attribute comparison**, and **JavaScript code parsing** into an **Abstract Syntax Tree (AST)**.
+This project is a Node.js CLI  utility that provides multiple interactive functionalities, ranging from XML-to-JSON conversion to string manipulation, paragraph analysis, object attribute comparison, and JavaScript code parsing into an Abstract Syntax Tree.
 
 ## Features
 
@@ -95,6 +95,4 @@ Demonstrates CLI-based application design in Node.js with multiple interactive m
 
 Muhammad Anas Rizwan
 MERN Intern @ Coderatory Software House
-
-If you want, I can also create an **ASCII diagram of the menu flows** so your README looks even more professional and visually engaging on GitHub. That would make it stand out.
 ```
