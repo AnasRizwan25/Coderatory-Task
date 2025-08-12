@@ -84,13 +84,13 @@ Dependencies
     readline – Command-line input
 ```
 
-## 📌 Notes
+## Notes
 ```bash
 Created as part of the first-day task for my MERN internship at Coderatory Software House.
 Demonstrates CLI-based application design in Node.js with multiple interactive menus.
 ```
 
-## 👨‍💻 Author
+## Author
 ```bash
 
 Muhammad Anas Rizwan
